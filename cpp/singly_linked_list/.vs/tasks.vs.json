@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-linked_list",
+      "appliesTo": "linked_list.cpp",
+      "type": "launch"
+    }
+  ]
+}
